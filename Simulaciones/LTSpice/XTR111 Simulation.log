@@ -1,0 +1,51 @@
+Circuit: * C:\Users\gerar\Desktop\UVG\10semestre\DiseñoInnovacion\PROTOTIPO1\XTR111-LTspice-Model-master\XTR111 Simulation.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Limiting rise time of source v2 to 0.005
+Limiting fall time of source v2 to 0.005
+WARNING: Node NC_02 is floating.
+
+WARNING: Less than two connections to node nc_02.  This node is used by g:x1:u1:1.
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u1:3)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+Ignoring empty pin current: Ix(u2:3)
+Ignoring empty pin current: Ix(u3:1)
+Ignoring empty pin current: Ix(u3:2)
+Ignoring empty pin current: Ix(u3:3)
+Ignoring empty pin current: Ix(x1:regs)
+Ignoring empty pin current: Ix(u1:1)
+Ignoring empty pin current: Ix(u1:2)
+Ignoring empty pin current: Ix(u1:3)
+Ignoring empty pin current: Ix(u2:1)
+Ignoring empty pin current: Ix(u2:2)
+Ignoring empty pin current: Ix(u2:3)
+Ignoring empty pin current: Ix(u3:1)
+Ignoring empty pin current: Ix(u3:2)
+Ignoring empty pin current: Ix(u3:3)
+Ignoring empty pin current: Ix(x1:regs)
+
+Date: Sat Oct 14 09:34:12 2023
+Total elapsed time: 0.271 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4836
+traniter = 4819
+tranpoints = 1814
+accept = 1603
+rejected = 211
+matrix size = 33
+fillins = 16
+solver = Normal
+Avg thread counts: 1.8/3.2/2.7/1.8
+Matrix Compiler1: 2.58 KB object code size  0.9/0.5/[0.3]
+Matrix Compiler2: 2.58 KB object code size  0.4/0.6/[0.3]
+
